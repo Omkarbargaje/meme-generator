@@ -33,7 +33,7 @@ export default function Meme() {
   return (
     <main>
       <img
-        src="https://wallpaper.dog/large/10747676.jpg"
+        src="./assets/images/meme---background-img.jpg"
         className="meme--backGround"
         alt="meme--backGround-img"
       />
